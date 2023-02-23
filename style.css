@@ -142,10 +142,10 @@
       
      }
      .days img{
-      position: absolute;
-      top: 67.30%;
-      right: 48%;
-      transform: translate(100%, 50%);
+      position: relative;
+      top: 65%;
+      right: 60%;
+      transform: translate(-45%, -40%);
 
      }
 
@@ -154,10 +154,10 @@
      }
 
      .price img{
-      position: absolute;
-      top: 67.30%;
-      left: 41.50%;
-      transform: translate(100%, 50%);
+      position: relative;
+      top: 65%;
+      right: 60%;
+      transform: translate(-45%, -40%);
 
      }
 
